@@ -1,4 +1,6 @@
 ﻿# PatoFlamejanteTVs-Mods-Collection
+
+Yeah - i (basically) give up about the Imaturidade++ mod, and now im focusing here.
 <P align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
   <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
