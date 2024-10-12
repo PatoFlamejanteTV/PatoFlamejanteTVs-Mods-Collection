@@ -1,7 +1,12 @@
 ﻿# PatoFlamejanteTVs-Mods-Collection
 
-Yeah - i (basically) give up about the Imaturidade++ mod, and now im focusing here.
-Made for using on Psych Engine - tested on JS Engine (JSE > Vanilla Psych)
+**Yeah** - i *(basically)* **give up about Imaturidade++, and now im focusing here.**
+
+Made for using on `Psych Engine` - tested on `JS Engine` (JSE > Vanilla Psych)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection/refs/heads/main/pack.png">
+</p>
 <P align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
   <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
