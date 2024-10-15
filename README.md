@@ -15,3 +15,8 @@ Made for using on `Psych Engine` - tested on `JS Engine` (JSE > Vanilla Psych)
   <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
 <img src="https://img.shields.io/badge/contributions-welcome-green">
 </P>
+
+## Status
+**From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">, we have:** `1` songs, `2` characters _(playable/used, and un-playable and unused)_.
+
+**Current `version` is:** <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">.
