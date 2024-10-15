@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singLEFT",
+            "loop": false,
+            "name": "eft"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singDOWN",
+            "loop": false,
+            "name": "down"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singUP",
+            "loop": false,
+            "name": "up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singRIGHT",
+            "loop": false,
+            "name": "right"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/rosetoy",
+    "position": [
+        40,
+        0
+    ],
+    "healthicon": "rosetoy",
+    "flip_x": false,
+    "healthbar_colors": [
+        215,
+        64,
+        54
+    ],
+    "camera_position": [
+        -120,
+        -20
+    ],
+    "sing_duration": 6.1,
+    "scale": 1
+}

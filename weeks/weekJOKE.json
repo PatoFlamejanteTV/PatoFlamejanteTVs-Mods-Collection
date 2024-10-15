@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["rosetoy", "rosetoy", [215, 64, 54]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+
+	"storyName": "FNF VS MEMES KJEDGJEWVFGEHWJFGEWJH",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

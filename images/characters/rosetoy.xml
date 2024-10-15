@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rosetoy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="0" y="323" width="280" height="354" frameX="-37" frameY="-46" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="idle0000" x="307" y="0" width="258" height="384" frameX="-81" frameY="-18" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="left0000" x="0" y="0" width="307" height="323" frameX="-34" frameY="-40" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="right0000" x="565" y="0" width="377" height="201" frameX="-18" frameY="-125" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="up0000" x="565" y="201" width="253" height="275" frameX="-89" frameY="1" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>
