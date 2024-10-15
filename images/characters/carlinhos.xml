@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carlinhos.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="0" y="808" width="404" height="374" frameX="2" frameY="-28" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="down0001" x="404" y="808" width="404" height="351" frameX="2" frameY="-51" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="down0002" x="387" y="1182" width="404" height="327" frameX="2" frameY="-75" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="idle0000" x="0" y="0" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="left0000" x="785" y="404" width="391" height="399" frameX="-1" frameY="1" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="left0001" x="397" y="404" width="388" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="left0002" x="1198" y="0" width="355" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="right0000" x="0" y="404" width="397" height="404" frameX="-5" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="right0001" x="404" y="0" width="397" height="404" frameX="-5" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="right0002" x="801" y="0" width="397" height="404" frameX="-5" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="up0000" x="0" y="1182" width="387" height="356" frameX="-7" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="up0001" x="808" y="808" width="387" height="331" frameX="-7" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="up0002" x="791" y="1182" width="387" height="300" frameX="-7" frameY="2" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>
