@@ -1,4 +1,4 @@
-*.* linguist-detectable true
+#*.* linguist-detectable true
 
 *.json linguist-detectable false
 *.xml linguist-detectable false
