@@ -17,6 +17,6 @@ Made for using on `Psych Engine` - tested on `JS Engine` (JSE > Vanilla Psych)
 </P>
 
 ## Status
-**From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">, we have:** `1` songs, `2` characters _(playable/used, and un-playable and unused)_.
+**From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">, we have:** `2` songs, `3` characters _(playable/used, and un-playable and unused)_.
 
 **Current `version` is:** <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">.
