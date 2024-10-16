@@ -5,7 +5,7 @@
 Made for using on `Psych Engine` - tested on `JS Engine` (JSE > Vanilla Psych)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection/refs/heads/main/pack.png">
+<img src="https://raw.githubusercontent.com/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection/refs/heads/main/pack.png" alt="skibidi gooning simulator 2069 no cap(s)">
 </p>
 <P align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">
@@ -20,3 +20,5 @@ Made for using on `Psych Engine` - tested on `JS Engine` (JSE > Vanilla Psych)
 **From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">, we have:** `2` songs, `3` characters _(playable/used, and un-playable and unused)_.
 
 **Current `version` is:** <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection">.
+
+`NOTE: check ./LICENSE-SONGS-AND-ART, ./LICENSE for usage info.`

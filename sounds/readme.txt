@@ -1,0 +1,1 @@
+ik this is just some random SFXs, but im here to say that the .bfxrsound files are for an SFX creator called BFXR.
