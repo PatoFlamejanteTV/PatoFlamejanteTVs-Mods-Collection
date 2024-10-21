@@ -2,7 +2,7 @@
 
 **Yeah** - i *(basically)* **give up about Imaturidade++, and now im focusing here.**
 
-Made for using on `Psych Engine` - tested on `JS Engine` (JSE is better than Vanilla Psych tbh lol)
+Made for using on `Psych Engine` - **tested on `JS Engine`** (JSE is better than Vanilla Psych tbh lol)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PatoFlamejanteTV/PatoFlamejanteTVs-Mods-Collection/refs/heads/main/pack.png" alt="skibidi gooning simulator 2069 no cap(s)">
